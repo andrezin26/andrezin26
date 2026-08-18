@@ -1,68 +1,91 @@
 <div align="center">
 
-# `> ANDRÉ FILIPE // SYSTEM ONLINE_`
+# `> ANDRÉ FILIPE_`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=ENGENHARIA+DE+SOFTWARE;DESENVOLVIMENTO+COM+PYTHON;ENGENHARIA+DE+DADOS;BUILDING+THE+FUTURE...;SYSTEM+INITIALIZED+%E2%9C%93" alt="Animação de texto"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=ENGENHARIA+DE+SOFTWARE;DESENVOLVIMENTO+PYTHON;ENGENHARIA+DE+DADOS;APRENDENDO+%7C+CONSTRUINDO+%7C+EVOLUINDO;SYSTEM+ONLINE+%E2%9C%93" alt="Typing Animation">
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-EM%20DESENVOLVIMENTO-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/DADOS-FOCO%20ATUAL-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/github/followers/andrezin26?style=for-the-badge&label=SEGUIDORES&logo=github" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Status Online">
+<img src="https://img.shields.io/badge/PYTHON-EM%20DESENVOLVIMENTO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/ENGENHARIA%20DE%20DADOS-FOCO-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Engenharia de Dados">
 
 <br><br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    SISTEMA INICIALIZADO                     ║
-║                                                              ║
-║  > carregando perfil................................ [OK]  ║
-║  > carregando competências.......................... [OK]  ║
-║  > carregando projetos.............................. [OK]  ║
-║  > carregando objetivos............................. [OK]  ║
-║  > modo desenvolvimento............................. [ON]  ║
-║                                                              ║
-║                 ██████  ACESSO CONCEDIDO  ██████             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:00F7FF,100:0D1117&section=header" width="100%" alt="Banner">
 
 </div>
 
 ---
 
-## `01 // SOBRE MIM`
+## `01 // INICIALIZAÇÃO DO SISTEMA`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SYSTEM BOOT SEQUENCE                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > carregando perfil................................. [OK]   │
+│  > carregando conhecimentos........................... [OK]   │
+│  > carregando projetos................................. [OK]   │
+│  > carregando objetivos................................ [OK]   │
+│  > verificando conexão................................. [OK]   │
+│                                                              │
+│  > usuário: ANDRÉ FILIPE                                    │
+│  > área: ENGENHARIA DE SOFTWARE                             │
+│  > foco: ENGENHARIA DE DADOS                                │
+│  > status: EM DESENVOLVIMENTO                               │
+│                                                              │
+│                 SYSTEM INITIALIZED ✓                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `02 // SOBRE MIM`
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" valign="top">
 
-### `> identidade.detectar()`
+### `> perfil.carregar()`
 
-Sou estudante de **Engenharia de Software**, com foco no desenvolvimento utilizando **Python** e na construção da minha base para atuar com **Engenharia de Dados**.
+Sou estudante de **Engenharia de Software**, atualmente construindo minha base para atuar profissionalmente na área de tecnologia.
 
-Atualmente estou concentrado em transformar conhecimento teórico em projetos reais, fortalecendo fundamentos de programação, bancos de dados, SQL, estruturas de dados e processamento de informações.
+Meu foco está em **Python, SQL, bancos de dados e Engenharia de Dados**, enquanto desenvolvo projetos para transformar conhecimento teórico em experiência prática.
 
-Meu objetivo é evoluir de forma consistente, construindo projetos que demonstrem não apenas código funcionando, mas também **organização, arquitetura e capacidade de resolver problemas**.
+Tenho interesse principalmente em:
+
+* Desenvolvimento com Python
+* Bancos de dados e SQL
+* Engenharia de Dados
+* APIs e backend
+* Estruturas de dados e algoritmos
+* Arquitetura e desenvolvimento de software
+* Automação e processamento de dados
+
+Meu objetivo é evoluir de forma consistente e construir uma base técnica sólida para ingressar no mercado.
 
 </td>
 
-<td width="40%">
+<td width="35%" valign="top">
 
 ```text
-┌─────────────────────────┐
-│      PERFIL ATIVO       │
-├─────────────────────────┤
-│                         │
-│  Engenharia Software    │
-│  Python                 │
-│  SQL                    │
-│  Dados                  │
-│  Git / GitHub            │
-│                         │
-├─────────────────────────┤
-│  MODO: DESENVOLVIMENTO  │
-└─────────────────────────┘
+┌───────────────────────┐
+│     PERFIL ATIVO      │
+├───────────────────────┤
+│                       │
+│  Engenharia Software  │
+│  Python               │
+│  SQL                  │
+│  Dados                │
+│  Backend              │
+│  Git / GitHub         │
+│                       │
+├───────────────────────┤
+│  STATUS: ONLINE       │
+└───────────────────────┘
 ```
 
 </td>
@@ -71,87 +94,98 @@ Meu objetivo é evoluir de forma consistente, construindo projetos que demonstre
 
 ---
 
-## `02 // TECNOLOGIAS`
+## `03 // TECNOLOGIAS`
 
 <div align="center">
 
 ### `LINGUAGENS`
 
-<img src="https://skillicons.dev/icons?i=python,java,sql,html,css,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Linguagens">
 
 <br><br>
 
-### `DADOS & BACKEND`
+### `DADOS & BANCO DE DADOS`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,fastapi,pandas,numpy&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,pandas,numpy&theme=dark" alt="Dados e Bancos de Dados">
 
 <br><br>
 
-### `FERRAMENTAS`
+### `BACKEND & FERRAMENTAS`
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux,docker,postman&theme=dark" alt="Backend e Ferramentas">
 
 </div>
 
 ---
 
-## `03 // STACK ATUAL`
+## `04 // STACK EM EVOLUÇÃO`
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  PYTHON        ████████████████████████░░░░   DESENVOLVENDO │
-│  SQL           ███████████████████░░░░░░░░   DESENVOLVENDO │
-│  GIT/GITHUB    ████████████████████░░░░░░░   UTILIZANDO    │
-│  PANDAS        ███████████████░░░░░░░░░░░░   ESTUDANDO     │
-│  NUMPY         ██████████████░░░░░░░░░░░░░   ESTUDANDO     │
-│  JAVA          ███████████░░░░░░░░░░░░░░░░   ESTUDANDO     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
+
+|     Tecnologia    |      Nível atual      |
+| :---------------: | :-------------------: |
+|   🐍 **Python**   | ███████████████████░░ |
+|    🗄️ **SQL**    |  █████████████████░░░ |
+| 🐘 **PostgreSQL** |  ███████████████░░░░░ |
+|   🐼 **Pandas**   |  ██████████████░░░░░░ |
+|    🔢 **NumPy**   |  ████████████░░░░░░░░ |
+|     ☕ **Java**    |  ██████████░░░░░░░░░░ |
+| 🔧 **Git/GitHub** |  ███████████████████░ |
+
+</div>
 
 ---
 
-## `04 // PROJETOS`
+## `05 // PROJETOS`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚙️ PitHub
+<div align="center">
 
-**Sistema para gerenciamento de oficina mecânica**
+### ⚙️ PITHUB
 
-Projeto desenvolvido para aplicar conceitos de desenvolvimento de software, API, banco de dados e regras de negócio.
+</div>
 
-**Tecnologias**
+Sistema de gerenciamento para **oficinas mecânicas**, desenvolvido para aplicar conceitos de backend, APIs, banco de dados e regras de negócio.
+
+**Stack**
 
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
 
-<br>
+<div align="center">
 
 <a href="https://github.com/andrezin26">
-<img src="https://img.shields.io/badge/VER%20PROJETO-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver PitHub no GitHub">
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Mini Guia — Engenharia de Dados
+<div align="center">
 
-Projeto desenvolvido para organizar conhecimentos e conceitos relacionados à Engenharia de Dados.
+### 📊 MINI GUIA — ENGENHARIA DE DADOS
 
-**Foco**
+</div>
+
+Projeto de documentação e organização de conhecimentos relacionados à **Engenharia de Dados**, com foco em fundamentos e tecnologias importantes da área.
+
+**Stack**
 
 `Python` `SQL` `Dados` `Documentação`
 
-<br>
+<div align="center">
 
 <a href="https://github.com/andrezin26/miniguia-notebooklm-engenharia-dados">
-<img src="https://img.shields.io/badge/VER%20PROJETO-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver projeto no GitHub">
 </a>
+
+</div>
 
 </td>
 
@@ -160,111 +194,96 @@ Projeto desenvolvido para organizar conhecimentos e conceitos relacionados à En
 
 ---
 
-## `05 // OBJETIVOS ATUAIS`
-
-<div align="center">
+## `06 // OBJETIVOS ATUAIS`
 
 ```text
 ┌─[ ANDRE@GITHUB ]─[ ~/objetivos ]─────────────────────────────┐
 │                                                              │
-│  $ iniciar_desenvolvimento                                   │
-│                                                              │
-│  [✓] Fortalecer Python                                      │
-│  [✓] Aprimorar Git e GitHub                                  │
-│  [→] Evoluir em SQL                                         │
-│  [→] Aprofundar Pandas                                      │
-│  [→] Estudar NumPy                                          │
-│  [→] Desenvolver projetos mais completos                    │
-│  [→] Aprofundar Engenharia de Dados                         │
-│  [ ] Construir experiência profissional                     │
-│  [ ] Tornar-me Engenheiro de Dados                           │
-│                                                              │
 │  $ progresso --status                                        │
 │                                                              │
-│  SISTEMA: EVOLUÇÃO CONTÍNUA                                  │
+│  [✓] Aprimorar Python                                       │
+│  [✓] Aprender Git e GitHub                                  │
+│  [→] Evoluir em SQL                                         │
+│  [→] Aprofundar Pandas                                      │
+│  [→] Aprofundar NumPy                                       │
+│  [→] Desenvolver projetos mais completos                    │
+│  [→] Estudar Engenharia de Dados                            │
+│  [ ] Desenvolver experiência profissional                    │
+│  [ ] Ingressar no mercado de tecnologia                     │
+│                                                              │
+│  $ sistema.status()                                          │
+│                                                              │
+│  STATUS: EVOLUÇÃO CONTÍNUA                                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-## `06 // ESTATÍSTICAS`
+## `07 // GITHUB STATS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezin26&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=andrezin26&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" alt="GitHub Stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezin26&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=andrezin26&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezin26&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages">
 
 </div>
 
 ---
 
-## `07 // ATIVIDADE`
+## `08 // STREAK`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezin26&bg_color=0D1117&color=C9D1D9&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=andrezin26&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak">
 
 </div>
 
 ---
 
-## `08 // CONQUISTAS`
+## `09 // ATIVIDADE`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrezin26&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrezin26&bg_color=0D1117&color=C9D1D9&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de atividade do GitHub">
 
 </div>
 
 ---
 
-## `09 // CONTRIBUIÇÕES`
+## `10 // GITHUB TROPHIES`
 
 <div align="center">
 
-### `> INICIANDO PROTOCOLO SNAKE...`
-
-<img src="https://raw.githubusercontent.com/andrezin26/andrezin26/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições"/>
+<img src="https://github-profile-trophy.vercel.app/?username=andrezin26&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies">
 
 </div>
 
 ---
 
-## `10 // FILOSOFIA`
+## `11 // SNAKE CONTRIBUTION`
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     "Código não é apenas escrever instruções.               ║
-║      É transformar problemas em sistemas."                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/andrezin26/andrezin26/output/github-contribution-grid-snake-dark.svg" alt="Snake das contribuições do GitHub">
 
 </div>
 
+> **Importante:** para esta animação funcionar, é necessário criar o workflow `github-contribution-grid-snake.yml` no repositório `andrezin26/andrezin26`.
+
 ---
 
-## `11 // CONECTE-SE`
+## `12 // CONECTE-SE`
 
 <div align="center">
 
 <a href="https://github.com/andrezin26">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub">
 </a>
 
 <a href="SEU_LINKEDIN_AQUI">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn">
 </a>
 
 </div>
@@ -273,20 +292,14 @@ Projeto desenvolvido para organizar conhecimentos e conceitos relacionados à En
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=andrezin26&style=for-the-badge&color=00F7FF&label=VISITAS+NO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=andrezin26&style=for-the-badge&color=00F7FF&label=VISITAS" alt="Visualizações do perfil">
 
 <br><br>
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│                 SYSTEM STATUS: ONLINE                      │
-│                                                            │
-│              BUILD • LEARN • ITERATE • REPEAT              │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:00F7FF,100:0D1117&section=footer" width="100%" alt="Rodapé">
 
-### `// FIM DA TRANSMISSÃO`
+### `SYSTEM STATUS: ONLINE`
+
+`BUILD • LEARN • ITERATE • REPEAT`
 
 </div>
