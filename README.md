@@ -301,7 +301,7 @@ Projeto de documentação e organização de conhecimentos relacionados à **Eng
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub">
 </a>
 
-<a href="(https://www.linkedin.com/in/andrefilipemarcelino/)">
+<a href="https://www.linkedin.com/in/andrefilipemarcelino/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn">
 </a>
 
