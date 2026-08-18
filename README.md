@@ -26,17 +26,17 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  > carregando perfil................................. [OK]   │
-│  > carregando conhecimentos........................... [OK]   │
-│  > carregando projetos................................. [OK]   │
-│  > carregando objetivos................................ [OK]   │
-│  > verificando conexão................................. [OK]   │
+│  > carregando conhecimentos........................... [OK]  │
+│  > carregando projetos................................. [OK] │
+│  > carregando objetivos................................ [OK] │
+│  > verificando conexão................................. [OK] │
 │                                                              │
-│  > usuário: ANDRÉ FILIPE                                    │
-│  > área: ENGENHARIA DE SOFTWARE                             │
-│  > foco: ENGENHARIA DE DADOS                                │
-│  > status: EM DESENVOLVIMENTO                               │
+│  > usuário: ANDRÉ FILIPE                                     │
+│  > área: ENGENHARIA DE SOFTWARE                              │
+│  > foco: ENGENHARIA DE DADOS                                 │
+│  > status: EM DESENVOLVIMENTO                                │
 │                                                              │
-│                 SYSTEM INITIALIZED ✓                         │
+│                  SYSTEM INITIALIZED ✓                        |
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
