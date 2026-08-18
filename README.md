@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Status Online">
-<img src="https://img.shields.io/badge/PYTHON-EM%20DESENVOLVIMENTO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PYTHON-EM%20APRENDIZADO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/ENGENHARIA%20DE%20DADOS-FOCO-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Engenharia de Dados">
 
 <br><br>
@@ -27,7 +27,7 @@
 │                                                              │
 │  > carregando perfil................................. [OK]   │
 │  > carregando conhecimentos........................... [OK]  │
-│  > carregando projetos................................. [OK] │
+│  > carregando projetos................................. [OK] │ 
 │  > carregando objetivos................................ [OK] │
 │  > verificando conexão................................. [OK] │
 │                                                              │
@@ -36,7 +36,7 @@
 │  > foco: ENGENHARIA DE DADOS                                 │
 │  > status: EM DESENVOLVIMENTO                                │
 │                                                              │
-│                  SYSTEM INITIALIZED ✓                        |
+│                 SYSTEM INITIALIZED ✓                         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -47,6 +47,7 @@
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 ### `> perfil.carregar()`
@@ -62,10 +63,9 @@ Tenho interesse principalmente em:
 * Engenharia de Dados
 * APIs e backend
 * Estruturas de dados e algoritmos
-* Arquitetura e desenvolvimento de software
-* Automação e processamento de dados
+* Desenvolvimento de software
 
-Meu objetivo é evoluir de forma consistente e construir uma base técnica sólida para ingressar no mercado.
+Meu objetivo é evoluir de forma consistente, fortalecendo meus fundamentos e construindo projetos que demonstrem minha evolução técnica.
 
 </td>
 
@@ -89,6 +89,7 @@ Meu objetivo é evoluir de forma consistente e construir uma base técnica sóli
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -104,33 +105,49 @@ Meu objetivo é evoluir de forma consistente e construir uma base técnica sóli
 
 <br><br>
 
-### `DADOS & BANCO DE DADOS`
+### `BANCO DE DADOS`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,pandas,numpy&theme=dark" alt="Dados e Bancos de Dados">
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Bancos de Dados">
 
 <br><br>
 
 ### `BACKEND & FERRAMENTAS`
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux,docker,postman&theme=dark" alt="Backend e Ferramentas">
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" alt="Backend e Ferramentas">
 
 </div>
 
 ---
 
-## `04 // STACK EM EVOLUÇÃO`
+## `04 // TECNOLOGIAS EM APRENDIZADO`
 
 <div align="center">
 
-|     Tecnologia    |      Nível atual      |
-| :---------------: | :-------------------: |
-|   🐍 **Python**   | ███████████████████░░ |
-|    🗄️ **SQL**    |  █████████████████░░░ |
-| 🐘 **PostgreSQL** |  ███████████████░░░░░ |
-|   🐼 **Pandas**   |  ██████████████░░░░░░ |
-|    🔢 **NumPy**   |  ████████████░░░░░░░░ |
-|     ☕ **Java**    |  ██████████░░░░░░░░░░ |
-| 🔧 **Git/GitHub** |  ███████████████████░ |
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                 TECNOLOGIAS EM APRENDIZADO                   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🐍 PYTHON                                                  │
+│     FUNDAMENTOS                                              │
+│                                                              │
+│  🗄️ SQL                                                     │
+│     FUNDAMENTOS                                              │
+│                                                              │
+│  🐘 POSTGRESQL                                              │
+│     FUNDAMENTOS                                              │
+│                                                              │
+│  ☕ JAVA                                                    │
+│     FUNDAMENTOS                                              │
+│                                                              │
+│  ⚡ FASTAPI                                                 │
+│     EM APRENDIZADO                                           │
+│                                                              │
+│  🔧 GIT / GITHUB                                            │
+│     EM APRENDIZADO                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -149,16 +166,18 @@ Meu objetivo é evoluir de forma consistente e construir uma base técnica sóli
 
 </div>
 
-Sistema de gerenciamento para **oficinas mecânicas**, desenvolvido para aplicar conceitos de backend, APIs, banco de dados e regras de negócio.
+Sistema de gerenciamento para **oficinas mecânicas**, desenvolvido como projeto para aplicar conceitos de desenvolvimento de software, APIs, banco de dados e regras de negócio.
 
-**Stack**
+**Tecnologias**
 
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/andrezin26">
-<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver PitHub no GitHub">
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver projeto">
 </a>
 
 </div>
@@ -173,16 +192,18 @@ Sistema de gerenciamento para **oficinas mecânicas**, desenvolvido para aplicar
 
 </div>
 
-Projeto de documentação e organização de conhecimentos relacionados à **Engenharia de Dados**, com foco em fundamentos e tecnologias importantes da área.
+Projeto de documentação e organização de conhecimentos relacionados à **Engenharia de Dados**, com foco nos fundamentos e tecnologias importantes da área.
 
-**Stack**
+**Tecnologias**
 
 `Python` `SQL` `Dados` `Documentação`
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/andrezin26/miniguia-notebooklm-engenharia-dados">
-<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver projeto no GitHub">
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver projeto">
 </a>
 
 </div>
@@ -201,19 +222,19 @@ Projeto de documentação e organização de conhecimentos relacionados à **Eng
 │                                                              │
 │  $ progresso --status                                        │
 │                                                              │
-│  [✓] Aprimorar Python                                       │
-│  [✓] Aprender Git e GitHub                                  │
-│  [→] Evoluir em SQL                                         │
-│  [→] Aprofundar Pandas                                      │
-│  [→] Aprofundar NumPy                                       │
-│  [→] Desenvolver projetos mais completos                    │
-│  [→] Estudar Engenharia de Dados                            │
-│  [ ] Desenvolver experiência profissional                    │
-│  [ ] Ingressar no mercado de tecnologia                     │
+│  [✓] Aprender fundamentos de Python                          │
+│  [✓] Conhecer Git e GitHub                                   │
+│  [→] Evoluir em Python                                       │
+│  [→] Aprender SQL                                             │
+│  [→] Aprofundar conhecimentos em bancos de dados             │
+│  [→] Desenvolver projetos mais completos                     │
+│  [→] Estudar Engenharia de Dados                             │
+│  [ ] Construir experiência profissional                       │
+│  [ ] Ingressar no mercado de tecnologia                      │
 │                                                              │
-│  $ sistema.status()                                          │
+│  $ sistema.status()                                           │
 │                                                              │
-│  STATUS: EVOLUÇÃO CONTÍNUA                                  │
+│  STATUS: APRENDIZADO CONTÍNUO                                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -224,7 +245,7 @@ Projeto de documentação e organização de conhecimentos relacionados à **Eng
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=andrezin26&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" alt="GitHub Stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=andrezin26&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" alt="GitHub Stats">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezin26&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages">
 
@@ -269,8 +290,6 @@ Projeto de documentação e organização de conhecimentos relacionados à **Eng
 <img src="https://raw.githubusercontent.com/andrezin26/andrezin26/output/github-contribution-grid-snake-dark.svg" alt="Snake das contribuições do GitHub">
 
 </div>
-
-> **Importante:** para esta animação funcionar, é necessário criar o workflow `github-contribution-grid-snake.yml` no repositório `andrezin26/andrezin26`.
 
 ---
 
