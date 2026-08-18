@@ -129,7 +129,7 @@ Meu objetivo é evoluir de forma consistente, fortalecendo meus fundamentos e co
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  🐍 PYTHON                                                  │
-│     FUNDAMENTOS                                              │
+│     INTERMEDIÁRIO                                            │
 │                                                              │
 │  🗄️ SQL                                                     │
 │     FUNDAMENTOS                                              │
